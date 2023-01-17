@@ -2,6 +2,7 @@
  * Copyright (c) 2020 mol* contributors, licensed under MIT, See LICENSE file for more info.
  *
  * @author Luis Luna <eng.luis.luna@gmail.com>
+ * Description: Building this game helped me understand how React works.
  */
 
 import React from 'react';
